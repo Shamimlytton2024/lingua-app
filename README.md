@@ -1,4 +1,4 @@
-# lingua-app# Phase-2-Language-App
+# lingua-app
 
 A responsive, interactive language learning web app built with React.js. Learn new vocabulary, practice grammar, and improve your speaking skills — all in one place!
 
