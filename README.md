@@ -21,7 +21,7 @@ A responsive, interactive language learning web app built with React.js. Learn n
 
    * Frontend: React.js, React Router, Axios
 
-    * Styling: CSS Modules / Tailwind CSS / Styled-Components (pick one)
+    * Styling: CSS Modules / Tailwind CSS 
 
     * APIs: [e.g., Google Translate API, SpeechRecognition API]
 
