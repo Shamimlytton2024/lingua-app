@@ -2,7 +2,7 @@
 
 A responsive, interactive language learning web app built with React.js. Learn new vocabulary, practice grammar, and improve your speaking skills — all in one place!
 
-##Features
+## Features
     
 
     * Vocabulary practice with spaced repetition
@@ -17,7 +17,7 @@ A responsive, interactive language learning web app built with React.js. Learn n
 
     *Dark mode toggle
     
-    ###Tech Stack
+    ## Tech Stack
 
    * Frontend: React.js, React Router, Axios
 
@@ -27,4 +27,22 @@ A responsive, interactive language learning web app built with React.js. Learn n
 
     * State Management: React Context / Redux (if applicable)
     
-######Installation
+#### Installation
+
+1.Clone the repository and install dependencies:
+
+2.git clone https://github.com/Shamimlytton2024/Phase-2-Language-App.git cd phase-2-Language-App
+
+Run the app locally: bash npm start
+
+bash npm install
+Folder Structure
+
+src/ ├── components/ ├── pages/ ├── assets/ ├── hooks/ ├── context/ ├── App.js ├── index.js
+
+## License
+    MIT
+
+## AURTHOR: 
+SHAMIM KALANDE
+
